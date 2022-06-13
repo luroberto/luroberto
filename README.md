@@ -72,6 +72,3 @@ Currently I work as a web developer, mainly with the JavaScript language, but I'
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
