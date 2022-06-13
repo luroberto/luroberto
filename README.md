@@ -1,4 +1,4 @@
-<h1 align="center">hola 👋, soy Lu</h1>
+<h3 align="center">hola, soy Lu</h3>
 <h3 align="center">soy una desarrolladora web, apasionada por aprender constantemente</h3>
 
 - 📫 me podes contactar en **contacto@lucianaroberto.com.ar**
